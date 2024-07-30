@@ -15,16 +15,15 @@ I'm a passionate **Software Developer** at Agile Ai Tech Pvt. Ltd. with a keen i
 - **Other Technologies:** RESTful APIs, JWT, GraphQL, Docker
 
 ## Projects
-- **[Project 1](https://github.com/ritesh-sharma/project1):** A brief description of what Project 1 does.
-- **[Project 2](https://github.com/ritesh-sharma/project2):** A brief description of what Project 2 does.
-- **[Project 3](https://github.com/ritesh-sharma/project3):** A brief description of what Project 3 does.
+Agies Portal Frontend.
+ Agies Portal Backend.
 
 ## GitHub Stats
 ![Ritesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritesh-sharma&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh-sharma&layout=compact&theme=radical)
 
 ## Connect with Me
-- **Email:** [ritesh.sharma@example.com](mailto:ritesh.sharma@example.com)
+- **Email:** [ritesh.sharma@agileaitech.com](mailto:ritesh.sharma@example.com)
 - **LinkedIn:** [linkedin.com/in/ritesh-sharma](https://www.linkedin.com/in/ritesh-sharma)
 - **Twitter:** [twitter.com/ritesh_sharma](https://twitter.com/ritesh_sharma)
 
